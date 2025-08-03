@@ -1,12 +1,47 @@
-# React + Vite
+# 🎲 Tenzies Game (React Capstone Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the **Capstone Project** for the **15-Hour React Course** offered by [freeCodeCamp](https://freecodecamp.org), taught by **Bob Ziroll**.
 
-Currently, two official plugins are available:
+It combines all the key React concepts learned throughout the course into one fun and interactive project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 What I Learned & Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped me put into practice everything I’ve learned so far, including:
+
+- ✅ Components
+- ✅ Props
+- ✅ useState
+- ✅ useEffect
+- ✅ useRef
+- ✅ Conditional rendering
+- ✅ Event handling
+
+---
+
+## 🧠 Technologies Used
+
+- **React** (Vite setup)
+- **Vanilla CSS**
+- **NanoID** for unique keys
+- **React Confetti** for win animation
+
+---
+
+## 🎮 About the Game
+
+> **Tenzies** is a dice game where the player tries to get all 10 dice to show the same number. You can "hold" dice to freeze their values while rolling the rest. The game ends when all dice are held and show the same number.
+
+---
+
+## 💡 Personal Reflection
+
+This was a truly **challenging**, yet incredibly **fun** project. It tested my understanding of hooks, state logic, and UI interactivity — but Bob Ziroll was there every step of the way in the course, guiding me through the process with clear, structured lessons.
+
+---
+
+## 🔗 Links
+
+- 📂 **Repository**: [https://github.com/Roqeeb-dev/Tenzies-game](https://github.com/Roqeeb-dev/Tenzies)
+- 🌐 **Live Demo**: [https://roqeeb-dev.github.io/Tenzies-game](https://roqeeb-dev.github.io/Tenzies)
